@@ -1,2 +1,3 @@
 # Choose-your-own-adventure-game
-This is a game that I made for a school progect it has 3 endings  with one of them being a secret one. it is written in python
+This is a small text based adventure game I made. It is written in Python. 
+It has 2 main endings with 1 secret ending that will require some attention to detail.
